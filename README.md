@@ -1,4 +1,4 @@
-#Mission3
+Mission3
 
 
 In this Mission, take the API which is created, and build a DevOps pipeline to deploy it automatically.
